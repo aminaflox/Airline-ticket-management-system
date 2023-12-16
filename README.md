@@ -11,5 +11,4 @@ The Airline Ticket Management System is a comprehensive solution designed to sim
 * Database Integration
 
 ### Team Members
-Amina Mamasheva - Back-End Developer, Database Administrator 
-Aishenur Perktash - Front-End Developer, Project Manager
+Amina Mamasheva - Back-End Developer, Database Administrator <br> Aishenur Perktash - Front-End Developer, Project Manager
