@@ -16,6 +16,14 @@ Amina Mamasheva - Back-End Developer, Database Administrator <br> Aishenur Perkt
 
 
 ----
+
+![image](https://github.com/aminaflox/Airline-ticket-management-system/assets/98947733/fe62bf08-b0d6-479d-bdff-637a2cb3c3e8) <br> ERD of our Database
+
+----
+![image](https://github.com/aminaflox/Airline-ticket-management-system/assets/98947733/77f12809-caad-44ee-8f29-edea136e73f3)  <br> simplified version or ERD
+
+
+----
 ![image](https://github.com/aminaflox/Airline-ticket-management-system/assets/98947733/5286fb6f-1020-4912-bbfa-8d9322156c82) <br>//login page 
 
 
