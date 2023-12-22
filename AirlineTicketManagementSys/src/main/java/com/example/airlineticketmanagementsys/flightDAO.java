@@ -11,7 +11,7 @@ public class flightDAO {
         public static Connection getConnection() throws SQLException {
             String url = "jdbc:postgresql://localhost:5432/atms";
             String username = "postgres";
-            String password = "mina2002";
+            String password = "*";
             return DriverManager.getConnection(url, username, password);
         }
     }
