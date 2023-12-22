@@ -12,7 +12,7 @@ public class userDAO {
     public userDAO() {
         String url = "jdbc:postgresql://localhost:5432/atms";
         String username = "postgres";
-        String password = "mina2002";
+        String password = "*";
 
         try {
             this.connection = DriverManager.getConnection(url, username, password);
