@@ -4,6 +4,8 @@
 ## Description
 The Airline Ticket Management System is a comprehensive solution designed to simplify the process of searching and booking flights for users. Developed using Java technologies including JavaFX for the user interface, PostgreSQL for the database management, and JDBC for seamless connectivity, this system provides an efficient and user-friendly platform for managing airline ticket reservations.
 
+[Download RAR File](C:\Users\Zver\Downloads\AirlineTicketManagementSys.rar)
+
 ## Project Requirments
 * User Authentication and Authorization
 * Flight Search and Display
